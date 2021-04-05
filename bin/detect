@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "IPA Fonts"
+exit 0
